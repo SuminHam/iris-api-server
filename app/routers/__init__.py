@@ -6,4 +6,4 @@ router = APIRouter()
 
 router.include_router(ml_router.router,
                       prefix="/v1/ml",
-                      tags='ml')
+                      tags=['ml'])
