@@ -16,6 +16,7 @@ scikit-learn = "^1.4.2"
 pandas = "^2.2.2"
 uvicorn = {extras = ["standard"], version = "^0.29.0"}
 pre-commit = "^3.7.0"
+prometheus-client = "^0.20.0"
 
 
 [build-system]
