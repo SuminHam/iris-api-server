@@ -9,4 +9,4 @@
 
 ## Issue Tag
 - Closed | Fixed: 이슈 태그 번호
-- See also: 참고할 링크s
+- See also: 참고할 링크
